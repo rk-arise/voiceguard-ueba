@@ -22,10 +22,6 @@ It leverages **voice biometrics, behavioral analytics, and telecom intelligence*
 - ML/DL Models (PyTorch / Scikit-learn)  
 - Zero Trust Security  
 
-## 📂 Project Structure  
-See [repo structure](./) for details.  
-
-
 ## 👥 Team VoiceGuard  
 - [Rakesh] – Technical Lead  
 
