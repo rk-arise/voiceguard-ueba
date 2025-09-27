@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+scikit-learn
+torch
+numpy
+pandas
+azure-ai-textanalytics
+azure-cognitiveservices-speech
