@@ -23,7 +23,6 @@ It leverages **voice biometrics, behavioral analytics, and telecom intelligence*
 - Zero Trust Security  
 
 ## 👥 Team VoiceGuard  
-- [Rakesh] – Technical Lead  
 
 ## 📜 License  
 MIT License. See [LICENSE](LICENSE) for details.
